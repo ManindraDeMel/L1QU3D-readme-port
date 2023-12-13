@@ -44,7 +44,7 @@
   <!-- Metrics -->
   ### GitHub Analytics
  
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=L1QU3D&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=L1QU3D&theme=react" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=ManindraDeMel&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=ManindraDeMel&theme=react" />
 <p align="center"> 
  🅣🅔🅒🅗 🅢🅣🅐🅒🅚<br>
   </p>
